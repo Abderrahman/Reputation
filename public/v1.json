@@ -1,0 +1,412 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - abc",
+    "totalResults": "62600000",
+    "searchTerms": "abc",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "009612632261320763799:mublut__pqm"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - abc",
+    "totalResults": "62600000",
+    "searchTerms": "abc",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "009612632261320763799:mublut__pqm"
+   }
+  ]
+ },
+ "context": {
+  "title": "cse"
+ },
+ "searchInformation": {
+  "searchTime": 0.280446,
+  "formattedSearchTime": "0.28",
+  "totalResults": "62600000",
+  "formattedTotalResults": "62,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "ABC TV Network - Shows, Episodes, Schedules - ABC.com",
+   "htmlTitle": "\u003cb\u003eABC\u003c/b\u003e TV Network - Shows, Episodes, Schedules - \u003cb\u003eABC\u003c/b\u003e.com",
+   "link": "http://abc.go.com/",
+   "displayLink": "abc.go.com",
+   "snippet": "Visit The official ABC TV site offers free full episodes of TV shows, with show \ninformation, stars, schedules and more at ABC.com.",
+   "htmlSnippet": "Visit The official \u003cb\u003eABC\u003c/b\u003e TV site offers free full episodes of TV shows, with show \u003cbr\u003e\ninformation, stars, schedules and more at \u003cb\u003eABC\u003c/b\u003e.com.",
+   "cacheId": "JJgmiUBDUVAJ",
+   "formattedUrl": "abc.go.com/",
+   "htmlFormattedUrl": "\u003cb\u003eabc\u003c/b\u003e.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.media.abc.com/m/images/global/generic/shows_1x1-hirez/abccom.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://abc.go.com/",
+      "logo": "http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "136",
+      "height": "136",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFzX0hvoww4AOOg9EkqxxlAej4UZma13m_XpShFKrgcjqmVnVlegCcNcky"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "twitter:image": "http://cdn.media.abc.com/m/images/global/generic/shows_1x1-hirez/abccom.jpg",
+      "og:title": "Hey Facebook!  Come watch ABC Home Schedule And Shows Pages",
+      "og:image": "http://cdn.media.abc.com/m/images/global/generic/shows_1x1-hirez/abccom.jpg",
+      "og:url": "http://abc.go.com",
+      "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+      "fb:app_id": "374095054754",
+      "og:app_id": "374095054754",
+      "og:site_name": "ABC",
+      "msapplication-tileimage": "http://cdn.media.abc.com/m/images/favicon_ie10.png",
+      "msapplication-tilecolor": "#2D2D2D",
+      "msapplication-id": "App",
+      "msapplication-packagefamilyname": "ABC.ABCPlayer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABC News: Breaking News & Latest News - ABC News",
+   "htmlTitle": "\u003cb\u003eABC\u003c/b\u003e News: Breaking News &amp; Latest News - \u003cb\u003eABC\u003c/b\u003e News",
+   "link": "http://abcnews.go.com/",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Get breaking national and world news, broadcast video coverage, and exclusive \ninterviews. Find the top news online at ABC News.",
+   "htmlSnippet": "Get breaking national and world news, broadcast video coverage, and exclusive \u003cbr\u003e\ninterviews. Find the top news online at \u003cb\u003eABC\u003c/b\u003e News.",
+   "formattedUrl": "abcnews.go.com/",
+   "htmlFormattedUrl": "\u003cb\u003eabc\u003c/b\u003enews.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.com/images/US/RT_ISIS_mar_140702_33x16_992.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://abcnews.go.com/",
+      "logo": "http://a.abcnews.com/assets/images/navigation/abc-logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "321",
+      "height": "157",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8TctXFwry89hWhIxKI4DI9Lm0GXQovSDovTYqM2A6rW4gIxWabDSKSg"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2014 ABC News Internet Ventures",
+      "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+      "application-name": "ABC News",
+      "msapplication-tileimage": "http://a.abcnews.com/assets/images/abcn_logo_144x144.png",
+      "msapplication-tilecolor": "#2368BA",
+      "msapplication-id": "ABC.ABCNews",
+      "msapplication-packagefamilyname": "ABC.ABCNews_x0jz7fs5f51ac",
+      "fb:admins": "704409894",
+      "fb:app_id": "4942312939",
+      "fb_title": "ABC News",
+      "og:site_name": "ABC News",
+      "og:title": "ABC News",
+      "og:description": "Get breaking national and world news, broadcast video coverage, and exclusive interviews. Find the top news online at ABC News.",
+      "og:url": "http://abcnews.go.com/",
+      "og:type": "website"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABC News (ABC) on Twitter",
+   "htmlTitle": "\u003cb\u003eABC\u003c/b\u003e News (\u003cb\u003eABC\u003c/b\u003e) on Twitter",
+   "link": "https://twitter.com/ABC",
+   "displayLink": "twitter.com",
+   "snippet": "The latest from ABC News (@ABC). See the whole picture with @ABC News. \nTweets from the Social Desk: @Springer & @MicahGrimes. New York, NY.",
+   "htmlSnippet": "The latest from \u003cb\u003eABC\u003c/b\u003e News (@\u003cb\u003eABC\u003c/b\u003e). See the whole picture with @\u003cb\u003eABC\u003c/b\u003e News. \u003cbr\u003e\nTweets from the Social Desk: @Springer &amp; @MicahGrimes. New York, NY.",
+   "cacheId": "xTQm1dgY9QMJ",
+   "formattedUrl": "https://twitter.com/ABC",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003eABC\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/3732519004/d336acac6e4bb0696be48e5a4306cd1c_400x400.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcR3UUzfWweGaxyuIwum5fXJSNgz_V2zQmMpC_EJchHWFn-aKzdVj7cXWr"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Broadcasting Company - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAmerican Broadcasting Company\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/American_Broadcasting_Company",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The American Broadcasting Company (abbreviated ABC, stylized as abc since \n1962) is an American commercial broadcast television network. Throughout its ...",
+   "htmlSnippet": "The \u003cb\u003eAmerican Broadcasting Company\u003c/b\u003e (abbreviated \u003cb\u003eABC\u003c/b\u003e, stylized as \u003cb\u003eabc\u003c/b\u003e since \u003cbr\u003e\n1962) is an American commercial broadcast television network. Throughout its&nbsp;...",
+   "cacheId": "DI7iYqHzygwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/American_Broadcasting_Company",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/American_Broadcasting_Company",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/220px-American_Broadcasting_Company_Logo.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "176",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1byIIEEi7JUXY_F4SKjU0IwZnaxTdGRca9SUVmDDalCftT7Gy3mIDfQc"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "American Broadcasting Company",
+      "url": "abc.go.com",
+      "url_text": "abc.go.com",
+      "bday": "1943-10-12",
+      "category": "Television network (defunct radio network)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Associated Builders and Contractors",
+   "htmlTitle": "\u003cb\u003eAssociated Builders and Contractors\u003c/b\u003e",
+   "link": "http://www.abc.org/",
+   "displayLink": "www.abc.org",
+   "snippet": "Associated Builders and Contractors (ABC) is a national trade association that \nadvances and defends the principles of the merit shop in the construction \nindustry ...",
+   "htmlSnippet": "\u003cb\u003eAssociated Builders and Contractors\u003c/b\u003e (\u003cb\u003eABC\u003c/b\u003e) is a national trade association that \u003cbr\u003e\nadvances and defends the principles of the merit shop in the construction \u003cbr\u003e\nindustry&nbsp;...",
+   "cacheId": "hoLnleEslnwJ",
+   "formattedUrl": "www.abc.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eabc\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.abc.org/portals/1/Images/Home%20Page/academy_contentbox.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWakS6SBrwr2n44_PLQN4jB0fIcJNYoY0ueniFBKr3LYd7rdYQ5hBp9Oo"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2014 by Associated Builders and Contractors, Inc.",
+      "author": "Associated Builders and Contractors - National Office",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABC Carpet & Home: Inspired Design, Modern Furniture, Rugs & Gifts",
+   "htmlTitle": "\u003cb\u003eABC\u003c/b\u003e Carpet &amp; Home: Inspired Design, Modern Furniture, Rugs &amp; Gifts",
+   "link": "http://www.abchome.com/",
+   "displayLink": "www.abchome.com",
+   "snippet": "Discover a world of design inspiration and beauty for your home. Shop innovative \nand modern furniture, rugs, lighting, accessories and more online at ...",
+   "htmlSnippet": "Discover a world of design inspiration and beauty for your home. Shop innovative \u003cbr\u003e\nand modern furniture, rugs, lighting, accessories and more online at&nbsp;...",
+   "cacheId": "MuM8VnXzH1MJ",
+   "formattedUrl": "www.abchome.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eabc\u003c/b\u003ehome.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:site_name": "ABC Home",
+      "og:type": "website",
+      "og:locale": "en_US",
+      "fb:app_id": "289271537875096",
+      "og:title": "ABC Home",
+      "og:description": "Shop for Modern Furniture & Home Decor Online at ABC Carpet and Home. Find the perfect area rug to add flair to your home. With modern rugs including accent rugs and carpet runners, there is something for every style at ABC Carpet.",
+      "og:url": "http://www.abchome.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Watch ABC Family Shows, Movies & Full Episodes - ABCFamily.com",
+   "htmlTitle": "Watch \u003cb\u003eABC\u003c/b\u003e Family Shows, Movies &amp; Full Episodes - ABCFamily.com",
+   "link": "http://abcfamily.go.com/",
+   "displayLink": "abcfamily.go.com",
+   "snippet": "The official ABC Family site offers free full episodes of TV shows, with show \ninformation, stars, schedules and more at ABCFamily.com.",
+   "htmlSnippet": "The official \u003cb\u003eABC\u003c/b\u003e Family site offers free full episodes of TV shows, with show \u003cbr\u003e\ninformation, stars, schedules and more at ABCFamily.com.",
+   "cacheId": "8Ndv84k-NKkJ",
+   "formattedUrl": "abcfamily.go.com/",
+   "htmlFormattedUrl": "\u003cb\u003eabc\u003c/b\u003efamily.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.media.abcfamily.com/a/images/global/generic/shows/abcfamily.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "url": "http://abcfamily.go.com/",
+      "logo": "http://cdn.media.abcfamily.com/a/images/global/persimmon/abcfamily_logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRURfiwto_NQEvMNJqyhnGIX5sryVn6_2u0ITWTAt4hWxAg5vUMtT_Vmf4M"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+      "twitter:site": "@ABCFamily",
+      "twitter:image": "http://cdn.media.abcfamily.com/a/images/global/generic/shows/abcfamily.jpg",
+      "og:description": "The official ABC Family site offers free full episodes of TV shows, with show information, stars, schedules and more at ABCFamily.com",
+      "og:title": "Watch ABC Family Shows, Movies & Full Episodes  - ABCFamily.com",
+      "og:image": "http://cdn.media.abcfamily.com/a/images/global/generic/shows/abcfamily.jpg",
+      "og:url": "http://abcfamily.go.com",
+      "fb:app_id": "113804225303066",
+      "og:app_id": "113804225303066",
+      "og:site_name": "ABC Family"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WATCH ABC on the App Store on iTunes",
+   "htmlTitle": "WATCH \u003cb\u003eABC\u003c/b\u003e on the App Store on iTunes",
+   "link": "https://itunes.apple.com/us/app/watch-abc/id364191819?mt=8",
+   "displayLink": "itunes.apple.com",
+   "snippet": "Jun 9, 2014 ... Read reviews, get customer ratings, see screenshots, and learn more about \nWATCH ABC on the App Store. Download WATCH ABC and enjoy ...",
+   "htmlSnippet": "Jun 9, 2014 \u003cb\u003e...\u003c/b\u003e Read reviews, get customer ratings, see screenshots, and learn more about \u003cbr\u003e\nWATCH \u003cb\u003eABC\u003c/b\u003e on the App Store. Download WATCH \u003cb\u003eABC\u003c/b\u003e and enjoy&nbsp;...",
+   "cacheId": "h3ICbx66qg8J",
+   "formattedUrl": "https://itunes.apple.com/us/app/watch-abc/id364191819?mt=8",
+   "htmlFormattedUrl": "https://itunes.apple.com/us/app/watch-\u003cb\u003eabc\u003c/b\u003e/id364191819?mt=8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a2.mzstatic.com/us/r30/Purple/v4/c4/66/12/c466124e-8f4f-ed73-983f-5b460a3d7118/icon_340.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74V1RpErMNe9qibdLN0BcjjeztJA1DoZNHS-IdeQ6G3OtmaBEtvvoXjnp"
+     }
+    ],
+    "metatags": [
+     {
+      "platform-cache-id": "8",
+      "og:title": "WATCH ABC",
+      "og:description": "Get WATCH ABC on the App Store. See screenshots and ratings, and read customer reviews.",
+      "og:site_name": "App Store",
+      "og:image": "http://a2.mzstatic.com/us/r30/Purple/v4/c4/66/12/c466124e-8f4f-ed73-983f-5b460a3d7118/icon_340.png",
+      "og:image:width": "340",
+      "og:image:height": "340",
+      "og:image:type": "image/png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABC [Yet Another Bittorrent Client]",
+   "htmlTitle": "\u003cb\u003eABC\u003c/b\u003e [Yet Another Bittorrent Client]",
+   "link": "http://pingpong-abc.sourceforge.net/",
+   "displayLink": "pingpong-abc.sourceforge.net",
+   "snippet": "ABC is an improved client for the Bittorrent peer-to-peer file distribution solution. \nABC is based on BitTornado which extended from from Original Bittorrent Core ...",
+   "htmlSnippet": "\u003cb\u003eABC\u003c/b\u003e is an improved client for the Bittorrent peer-to-peer file distribution solution. \u003cbr\u003e\n\u003cb\u003eABC\u003c/b\u003e is based on BitTornado which extended from from Original Bittorrent Core&nbsp;...",
+   "cacheId": "OIiCTLrardcJ",
+   "formattedUrl": "pingpong-abc.sourceforge.net/",
+   "htmlFormattedUrl": "pingpong-\u003cb\u003eabc\u003c/b\u003e.sourceforge.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pingpong-abc.sourceforge.net/screenshot_3.1.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlkpHL59MF9EMVFf2z1nWmREWTmr-g80CLKMibirOWBbAemEkuMAKi01Be"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABCya.com | Kids Educational Computer Games & Activities",
+   "htmlTitle": "ABCya.com | Kids Educational Computer Games &amp; Activities",
+   "link": "http://www.abcya.com/",
+   "displayLink": "www.abcya.com",
+   "snippet": "ABCya.com is the leader in free educational kids computer games and activities \nfor elementary students to learn on the web. All children's educational computer ...",
+   "htmlSnippet": "ABCya.com is the leader in free educational kids computer games and activities \u003cbr\u003e\nfor elementary students to learn on the web. All children&#39;s educational computer&nbsp;...",
+   "cacheId": "GVc8hJYGytIJ",
+   "formattedUrl": "www.abcya.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eabc\u003c/b\u003eya.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.abcya.com/images/abcya_logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "283",
+      "height": "104",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCcTKFUPgWhnC1FSaXRwLCi8KkSYmEX33p57qr5Oq_z8j4BmUvFLGKDQ"
+     }
+    ]
+   }
+  }
+ ]
+}
