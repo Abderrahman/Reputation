@@ -13,4 +13,4 @@ Reputation Management System
 
 ##Technologies
 - CodeIgniter (PHP Framework)
-- Google Custom Search API
+- Google Custom Search Engine (CSE)
