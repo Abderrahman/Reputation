@@ -8,6 +8,8 @@ class contact extends CI_Controller {
         $this->load->model('util');
         $this->util->cache();
 
+        
+        
         if (!$this->session->userdata('logged_in')) {
             redirect('/login/show_login');
         }
