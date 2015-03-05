@@ -16,5 +16,5 @@ Reputation Management System
 - Google Custom Search Engine (CSE)
 
 ##Captures
-![capture](https://github.com/Abderrahman/Reputation/blob/master/capture-e-reputation.jpg)
+![capture](https://raw.githubusercontent.com/Abderrahman/Reputation/master/capture-e-reputation.JPG)
 Here is an example of a display in the search page
